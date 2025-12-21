@@ -1,0 +1,13 @@
+uploads/
+debug_log.txt
+
+create_admin.php
+reset_pass.php
+check_time.php
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+
