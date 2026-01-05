@@ -236,7 +236,7 @@ if ($result->num_rows > 0) {
                     </li>
                     <li class="mb-0 d-flex justify-content-between">
                         <span class="text-muted">Resolusi Input:</span>
-                        <span class="fw-medium">128x128 px (Resized)</span>
+                        <span class="fw-medium">256x256 px (Resized)</span>
                     </li>
                 </ul>
 

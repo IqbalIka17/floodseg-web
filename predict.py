@@ -15,7 +15,7 @@ DB_CONFIG = {
     'host': 'localhost',
     'database': 'flood_segmentation'
 }
-MODEL_PATH = 'unet_lite_model.h5'
+MODEL_PATH = 'unet_terbaik.h5'
 RESULT_DIR = 'uploads/result/'
 
 def update_db(record_id, status, result_filename=None, process_time=0, flood_pct=0, iou=None, dice=None, acc=None):
@@ -42,7 +42,7 @@ def update_db(record_id, status, result_filename=None, process_time=0, flood_pct
     except Exception as e:
         print(f"Error updating DB for ID {record_id}: {e}")
 
-def preprocess_image(image_path, target_size=(128, 128)):
+def preprocess_image(image_path, target_size=(256, 256)):
     try:
         img = Image.open(image_path).convert('RGB')
         img = img.resize(target_size)
