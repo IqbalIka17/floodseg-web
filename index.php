@@ -213,7 +213,7 @@
                         </h2>
                         <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body px-4 pb-4 text-muted">
-                                Model residual U-Net kami telah mencapai tingkat akurasi (IoU Score) rata-rata di atas <strong>85%</strong> pada dataset pengujian. Namun, hasil dapat bervariasi tergantung pada kualitas, pencahayaan, dan kompleksitas citra yang diunggah.
+                                Model residual U-Net kami telah mencapai tingkat akurasi (IoU Score) rata-rata di atas <strong>87%</strong> , (Dice Score) rata-rata di atas <strong>96%</strong> , dan (Pixel Accuracy) rata-rata di atas <strong>91%</strong> , pada dataset pengujian. Namun, hasil dapat bervariasi tergantung pada kualitas, pencahayaan, dan kompleksitas citra yang diunggah.
                             </div>
                         </div>
                     </div>
@@ -227,7 +227,7 @@
                         </h2>
                         <div id="faq4" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body px-4 pb-4 text-muted">
-                                Sangat cepat. Rata-rata proses inferensi hanya memakan waktu <strong>0.5 hingga 2 detik</strong> per gambar, tergantung pada spesifikasi perangkat keras komputer server Anda.
+                                Sangat cepat. Rata-rata proses inferensi hanya memakan waktu <strong>2 hingga 5 detik</strong> per gambar, tergantung pada spesifikasi perangkat keras komputer server Anda.
                             </div>
                         </div>
                     </div>

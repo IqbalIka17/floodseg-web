@@ -216,7 +216,7 @@ if ($result->num_rows > 0) {
                 <ul class="list-unstyled">
                     <li class="mb-2 d-flex justify-content-between">
                         <span class="text-muted">Model AI:</span>
-                        <span class="fw-medium">U-Net Lite (MobileNet)</span>
+                        <span class="fw-medium">Residual U-Net</span>
                     </li>
                     <li class="mb-2 d-flex justify-content-between">
                         <span class="text-muted">Epoch Setting:</span>
