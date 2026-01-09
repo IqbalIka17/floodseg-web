@@ -32,7 +32,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 </div>
                 <div>
                     <h5 class="fw-bold mb-1">Alamat</h5>
-                    <p class="text-muted">Jl. Kampus No. 123, Gedung Riset AI,<br>Jakarta, Indonesia 10110</p>
+                    <p class="text-muted">Jalan Imam Bonjol No. 207 & Jalan Nakula I No. 5 - 11, Pendrikan Kidul, Kec. Semarang Tengah,<br>Kota Semarang, Jawa Tengah, 50131</p>
                 </div>
             </div>
 
