@@ -24,14 +24,14 @@
                         Banjir merupakan salah satu bencana alam yang paling sering terjadi dan merugikan. Metode pemetaan konvensional seringkali memakan waktu lama. FloodSeg AI hadir untuk memangkas waktu tersebut dari jam menjadi detik.
                     </p>
                     <p class="text-muted mb-4">
-                        Dengan memanfaatkan teknologi <strong>Deep Learning (U-Net)</strong>, sistem kami dapat menganalisis citra satelit atau foto udara dan secara otomatis memisahkan area air dari daratan dengan presisi tinggi.
+                        Dengan memanfaatkan teknologi <strong>Deep Learning (Residual U-Net)</strong>, sistem kami dapat menganalisis citra satelit atau foto udara dan secara otomatis memisahkan area air dari daratan dengan presisi tinggi.
                     </p>
                     
                     <h5 class="fw-bold mt-4 mb-3">Teknologi yang Digunakan</h5>
                     <div class="d-flex flex-wrap gap-2">
                         <span class="badge bg-light text-dark border px-3 py-2">Python</span>
                         <span class="badge bg-light text-dark border px-3 py-2">TensorFlow</span>
-                        <span class="badge bg-light text-dark border px-3 py-2">U-Net Architecture</span>
+                        <span class="badge bg-light text-dark border px-3 py-2">Residual U-Net Architecture</span>
                         <span class="badge bg-light text-dark border px-3 py-2">PHP & MySQL</span>
                         <span class="badge bg-light text-dark border px-3 py-2">Bootstrap 5</span>
                     </div>
@@ -51,11 +51,10 @@
                         <i class="fas fa-user"></i>
                     </div>
                 </div>
-                <h5 class="fw-bold mb-1">Pengembang 1</h5>
-                <p class="text-muted small mb-3">Project Manager & AI Lead</p>
+                <h5 class="fw-bold mb-1">Iqbal</h5>
+                <p class="text-muted small mb-3">Frontend Developer</p>
                 <div class="d-flex justify-content-center gap-2">
-                    <a href="#" class="btn btn-sm btn-outline-secondary rounded-circle"><i class="fab fa-github"></i></a>
-                    <a href="#" class="btn btn-sm btn-outline-secondary rounded-circle"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://github.com/IqbalIka17" class="btn btn-sm btn-outline-secondary rounded-circle"><i class="fab fa-github"></i></a>
                 </div>
             </div>
         </div>
@@ -68,11 +67,10 @@
                         <i class="fas fa-user"></i>
                     </div>
                 </div>
-                <h5 class="fw-bold mb-1">Pengembang 2</h5>
-                <p class="text-muted small mb-3">Backend & Database Engineer</p>
+                <h5 class="fw-bold mb-1">Fikri</h5>
+                <p class="text-muted small mb-3">Backend Developer</p>
                 <div class="d-flex justify-content-center gap-2">
-                    <a href="#" class="btn btn-sm btn-outline-secondary rounded-circle"><i class="fab fa-github"></i></a>
-                    <a href="#" class="btn btn-sm btn-outline-secondary rounded-circle"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://github.com/fikriwildann" class="btn btn-sm btn-outline-secondary rounded-circle"><i class="fab fa-github"></i></a>
                 </div>
             </div>
         </div>
@@ -85,11 +83,10 @@
                         <i class="fas fa-user"></i>
                     </div>
                 </div>
-                <h5 class="fw-bold mb-1">Pengembang 3</h5>
-                <p class="text-muted small mb-3">Frontend & UI/UX Designer</p>
+                <h5 class="fw-bold mb-1">Arya</h5>
+                <p class="text-muted small mb-3">UI/UX Designer</p>
                 <div class="d-flex justify-content-center gap-2">
-                    <a href="#" class="btn btn-sm btn-outline-secondary rounded-circle"><i class="fab fa-github"></i></a>
-                    <a href="#" class="btn btn-sm btn-outline-secondary rounded-circle"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://github.com/aryalp19" class="btn btn-sm btn-outline-secondary rounded-circle"><i class="fab fa-github"></i></a>
                 </div>
             </div>
         </div>
@@ -102,11 +99,10 @@
                         <i class="fas fa-user"></i>
                     </div>
                 </div>
-                <h5 class="fw-bold mb-1">Pengembang 4</h5>
-                <p class="text-muted small mb-3">Data Scientist & Researcher</p>
+                <h5 class="fw-bold mb-1">Diva</h5>
+                <p class="text-muted small mb-3">Data Scientist</p>
                 <div class="d-flex justify-content-center gap-2">
                     <a href="#" class="btn btn-sm btn-outline-secondary rounded-circle"><i class="fab fa-github"></i></a>
-                    <a href="#" class="btn btn-sm btn-outline-secondary rounded-circle"><i class="fab fa-linkedin-in"></i></a>
                 </div>
             </div>
         </div>

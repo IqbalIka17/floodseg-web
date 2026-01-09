@@ -39,7 +39,7 @@
                         <i class="fas fa-brain fa-2x"></i>
                     </div>
                     <h5 class="fw-bold mb-2">Kecerdasan Buatan</h5>
-                    <p class="text-muted small">Dibangun di atas arsitektur U-Net yang dilatih khusus untuk segmentasi semantik objek air dan banjir.</p>
+                    <p class="text-muted small">Dibangun di atas arsitektur residual U-Net yang dilatih khusus untuk segmentasi semantik objek air dan banjir.</p>
                 </div>
             </div>
             <div class="col-md-4">
@@ -185,7 +185,7 @@
                         </h2>
                         <div id="faq1" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body px-4 pb-4 text-muted">
-                                Sistem kami menggunakan model Deep Learning bernama U-Net yang telah dilatih dengan ribuan citra satelit banjir. Model ini menganalisis setiap piksel gambar Anda dan memprediksi apakah piksel tersebut adalah air atau daratan.
+                                Sistem kami menggunakan model Deep Learning bernama residual U-Net yang telah dilatih dengan ribuan citra satelit banjir. Model ini menganalisis setiap piksel gambar Anda dan memprediksi apakah piksel tersebut adalah air atau daratan.
                             </div>
                         </div>
                     </div>
@@ -213,7 +213,7 @@
                         </h2>
                         <div id="faq3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
                             <div class="accordion-body px-4 pb-4 text-muted">
-                                Model U-Net kami telah mencapai tingkat akurasi (IoU Score) rata-rata di atas <strong>85%</strong> pada dataset pengujian. Namun, hasil dapat bervariasi tergantung pada kualitas, pencahayaan, dan kompleksitas citra yang diunggah.
+                                Model residual U-Net kami telah mencapai tingkat akurasi (IoU Score) rata-rata di atas <strong>85%</strong> pada dataset pengujian. Namun, hasil dapat bervariasi tergantung pada kualitas, pencahayaan, dan kompleksitas citra yang diunggah.
                             </div>
                         </div>
                     </div>
