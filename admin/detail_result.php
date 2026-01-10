@@ -203,8 +203,8 @@ $mask_image = $row['result_filename'] ? "../uploads/result/" . $row['result_file
                                 Epoch: <?php echo $row['epoch'] ?? 10; ?><br>
                                 Batch Size: <?php echo $row['batch_size'] ?? 4; ?><br>
                                 Learning Rate: <?php echo $row['learning_rate'] ?? 0.01; ?><br>
-                                Resolution: 128x128 (Resized)<br>
-                                Model: U-Net Lite
+                                Resolution: 256x256 (Resized)<br>
+                                Model: Residual U-Net
                             </code>
                         </div>
                     </div>

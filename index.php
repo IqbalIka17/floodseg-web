@@ -6,7 +6,7 @@
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-9">
                 <div class="badge bg-primary bg-opacity-10 text-primary mb-3 px-3 py-2 rounded-pill fw-medium">
-                    <i class="fas fa-sparkles me-2"></i>Ditenagai oleh Deep Learning U-Net
+                    <i class="fas fa-sparkles me-2"></i>Ditenagai oleh Deep Learning Residual U-Net
                 </div>
                 <h1 class="display-3 fw-bold mb-4" style="color: #0f172a; letter-spacing: -1px; line-height: 1.2;">
                     Deteksi Area Banjir dari <br>

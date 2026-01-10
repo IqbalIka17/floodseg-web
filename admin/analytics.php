@@ -127,7 +127,7 @@ $top_users = $conn->query("SELECT u.name, u.email, COUNT(h.id) as total_uploads
         <div class="d-flex justify-content-between align-items-center mb-5 mt-2">
             <div>
                 <h2 class="fw-bold mb-1">Analisis Performa Model</h2>
-                <p class="text-muted mb-0">Evaluasi komprehensif metrik kinerja model U-Net dan statistik operasional.</p>
+                <p class="text-muted mb-0">Evaluasi komprehensif metrik kinerja model Residual U-Net dan statistik operasional.</p>
             </div>
             <a href="javascript:window.print()" class="btn btn-white shadow-sm border rounded-pill px-4 fw-medium text-secondary">
                 <i class="fas fa-print me-2"></i> Cetak Laporan
